@@ -11,3 +11,4 @@ cargo run -- "Insurance" "" "~/Desktop"
 
 
 cargo run -- "Insurance" "pdf" "~/Desktop"
+bb
